@@ -29,7 +29,7 @@
 
 .jan-rakshak-title {
   text-decoration: none;
-
+  letter-spacing: 3px;
   color: #333;
 }
 
@@ -46,7 +46,9 @@
 
   align-items: center;
 
-  gap: 4.8rem;
+  gap: 5.6rem;
+
+  margin-top: 0.5rem;
 }
 
 .main-nav-link:link,
@@ -98,7 +100,7 @@
 }
 
 .hero {
-  max-width: 140rem;
+  max-width: 130rem;
 
   margin: 0 auto;
 
@@ -122,7 +124,7 @@
 }
 
 .hero-img-box img {
-  width: 100%;
+  width: 75%;
   border-radius: 1.5rem;
 }
 
